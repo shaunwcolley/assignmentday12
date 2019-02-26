@@ -34,7 +34,7 @@ h3 {
   font-weight: lighter;
 
 }
-.pageon {
+.page-on {
   display: inline-block;
   margin: 15px;
   margin-left: 25px;
@@ -42,7 +42,7 @@ h3 {
   font-weight: 600;
 }
 
-#mainpagep1 {
+#mainpage-p1 {
   background-color: #c7c7c775;
   color: #585858;
   width: 95%;
@@ -50,24 +50,24 @@ h3 {
   margin: 16px;
 }
 
-.pfont {
+.p-font {
   font-size: 14px;
 }
-.contentblocks{
+.content-blocks{
   width: 95%;
   padding: 5px;
   margin: 16px;
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
-.orangebar {
+.orange-bar {
   background-color: orange;
   color: white;
   width: 95%;
   margin-left: 16px;
   padding-left: 5px;
 }
-.inlinetext {
+.inline-text {
   display: inline-block;
   margin-right: 15px;
   margin-top: 4px;
@@ -77,7 +77,7 @@ h3 {
 /*
 Categories page styling
 */
-.catblocks {
+.cat-blocks {
   display: inline-block;
   text-align: center;
   margin: 25px;
@@ -87,12 +87,12 @@ Categories page styling
   background-color: #c7c7c775;
 }
 
-.blockheading {
+.block-heading {
   margin-top: 70px;
   font-weight: lighter;
 }
 
-.blockp {
+.block--p {
   margin-top: 56px;
   color: #828181;
 }
