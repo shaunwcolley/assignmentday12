@@ -1,6 +1,3 @@
-body {
-  position: relative;
-}
 div:nth-child(1) {
   position: sticky;
   background: deepskyblue;
